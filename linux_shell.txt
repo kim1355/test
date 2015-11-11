@@ -1,1 +1,2 @@
 请输入linux shell的相关说明
+修改内容：bug
