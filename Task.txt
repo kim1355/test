@@ -1,0 +1,76 @@
+
+（hadoop大数据、spark大数据、docker虚拟化、openstrack虚拟化）
+	（iptables防火墙 、squid代理）
+	（DNS服务器、FTP服务器、NFS服务器）
+	（入侵检测系统：IDS   linux  AIDE）
+
+
+
+9、Mysql 集群测试
+
+10、云服务器 Tomcat 集群（已在VMware win2008R2 环境中实现）
+
+11、公司服务器 IBM X3100 M4 内存扩容 （需要采购对应参数型号 内存条）
+
+12、测试东莞人行 oracle rman 备份策略，进行偶然恢复是否有效
+
+
+
+15、AIX ORACLE 9i2  ----  AIX ORACLE 11gR2    OGG测试
+
+
+16、已经在 suse linux 10 sp4 测试 cnpas2 运行环境（192.168.123.95），计划迁移至腾讯云服务器。
+
+
+17、【用户终端】---（Webserver）---（DBserver）---【VPN】---（VPNclient）---（肇庆一户通）---【网络专线】---（广州代收付）
+	已咨询云服务器供应商
+
+18、写东莞商业银行集成方案（redhat 、oracle 、MQ）采用goldengate数据库复制。虚拟机方式【双机热备+OGG数据库复制】
+    ORACLE,MQ是5.0   ，系统是RedhatEnterprise AS 3；考虑使用suse + NAS存储模式
+
+
+19、江门人行巡检分析
+
+20、测试 sybase 12.5 在 suse linux 10 sp 1 上的调优
+
+
+
+22、东莞金三环境
+
+23、腾讯云 vpn机制
+
+
+HP 在线咨询：https://h50203.www5.hp.com/wclweb/WCLOohEG.aspx    08:00 ---- 18:00
+
+800-810-2058
+400-610-2058
+
+IBM 咨询：
+
+800-810-1818 （免费） 
+400-810-1818 
+400-7006-663  （华诚峰）
+
+
+
+24、安装网络税票系统
+
+25、取东莞工行MQ 日志
+
+26、摩根邮件
+
+27、摩根MTS金宏环境：windows 2008 R2 、weblogic 12.1.3 、MQ v7.5（8.0）、JDK 1.8
+
+
+
+28、肇庆中心 AIX 装 openssl 1.0.1g
+
+
+
+
+
+
+
+
+
+
