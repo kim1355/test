@@ -1,0 +1,11 @@
+location /repo {
+       if ( $uri ~* "[^/]$" ){
+            rewrite_by_lua_block {
+                local uri = ngx.re.sub(ngx.var.uri, "^/repo(.*)", "/mysql/Downloads/$1");
+                ngx.req.set_uri(uri);
+            }
+           
+            proxy_pass http://mirrors.163.com;
+            break;
+        }
+}
